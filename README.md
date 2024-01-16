@@ -45,7 +45,7 @@ You can also see the code that is returned and use it in your projects!
 
 ## How To use
 
-In order to use this project, you will access to Microsoft Azure's OpenAI services.
+In order to use this project, you will need access to Microsoft Azure's OpenAI services.
 
 Additionally, you will need the following environment variables for your backend:
 
